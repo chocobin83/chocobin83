@@ -1,4 +1,4 @@
-- Always trying to learn new stuff
+- Trying to learn new stuff
 
 <!---
 chocobin83/chocobin83 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,6 +10,6 @@ let encode = (s) => (btoa(s));
 function getLink(s) { console.log(reverse(decode(reverse(s)))); }
 function setLink(s) { console.log(reverse(encode(reverse(s)))); }
 //
-(rdr)||isdtbb;noseparator(z)||lc;bwpass(db)
-==Aa0RHczpzLv0WZnFmLup3LmlGbl9SVrhjQnJGeiNCO0Y0XztEboRWUOl0bplDOPlGRw1ESvdFcBZ1dylVcsJFc04UWNlzZXlUQ
+(rdr)||isdtbb;noseparator(z)||lc;otppass(db)
+oRHdwNnOv8SbldWYu4mevY2bsRWZy9iSw4EaVRERZNSOmRDcGVXdsx2MB9UQjN0UzV0dNpXQ
 --->
